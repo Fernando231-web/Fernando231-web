@@ -1,6 +1,6 @@
 ### Hi there :pencil:
 
-Me chamo Fernando Feitosa, sou um Programador Front-End, atualmente estou aprendendo e criando projetos com:
+Me chamo Fernando Feitosa, sou um Programador Front-End Junior, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
